@@ -1,0 +1,1 @@
+package me.asher.refactoring._05_global_data;
